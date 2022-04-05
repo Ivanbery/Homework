@@ -1,0 +1,9 @@
+#!/bin/bash
+cd f_1
+mkdir fff_1 fff_2 fff_3
+cd fff_1
+touch q_1.txt q_2.txt q_3.txt q_4.json q_5.json
+mkdir a_1 a_2 a_3
+ls -la
+mv *.json ../
+
